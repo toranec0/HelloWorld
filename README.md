@@ -1,2 +1,2 @@
 # HelloWorld
-HelloWorld test ripository お試し
+HelloWorld test repository お試し
